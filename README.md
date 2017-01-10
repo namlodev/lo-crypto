@@ -1,7 +1,6 @@
 nano-limit-object
 ====================
-
-High performance Node.js (with native C addons) mining pool for CryptoNote based coins such as Bytecoin, DuckNote, Monero, QuazarCoin, Boolberry, Dashcoin, etc..
+Nano Limit Object is the most powerful engine that allows to easily deploy mining pools for all CryptoNote & Go Ethereum currencies
 Comes with lightweight example front-end script which uses the pool's AJAX API.
 
 
