@@ -9,7 +9,6 @@ Comes with lightweight example front-end script which uses the pool's AJAX API.
 #### Table of Contents
 * [Features](#features)
 * [Community Support](#community--support)
-* [Pools Using This Software](#pools-using-this-software)
 * [Usage](#usage)
   * [Requirements](#requirements)
   * [Downloading & Installing](#1-downloading--installing)
@@ -23,7 +22,6 @@ Comes with lightweight example front-end script which uses the pool's AJAX API.
 * [JSON-RPC Commands from CLI](#json-rpc-commands-from-cli)
 * [Monitoring Your Pool](#monitoring-your-pool)
 * [Donations](#donations)
-* [Credits](#credits)
 * [License](#license)
 
 
