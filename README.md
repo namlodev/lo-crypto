@@ -1,6 +1,6 @@
-nano-limit-object
+LoCrypto
 ====================
-Nano Limit Object is the most powerful engine that allows to easily deploy mining pools for all CryptoNote & Go Ethereum currencies
+LoCrypto is the most powerful engine that allows to easily deploy mining pools for all CryptoNote & Go Ethereum currencies
 Comes with lightweight example front-end script which uses the pool's AJAX API.
 
 
@@ -106,7 +106,7 @@ sudo apt-get install git redis-server libboost1.55-all-dev nodejs-dev nodejs-leg
 Clone the repository and run `npm update` for all the dependencies to be installed:
 
 ```bash
-git clone https://github.com/namlodev/nano-limit-object.git pool
+git clone https://github.com/namlodev/lo-crypto.git pool
 cd pool
 npm update
 ```
